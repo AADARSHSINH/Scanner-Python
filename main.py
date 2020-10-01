@@ -1,3 +1,5 @@
+# YOUR PROJECT IS WERE NICE BUT MSKE IT MORE ADVANCE
+
 import fonc
 print('------------Network Scanner 1.0------------')
 print('[*] Choice an option')
